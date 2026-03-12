@@ -62,7 +62,7 @@ Solved **500+ DSA problems** across competitive programming platforms.
 
 * ⭐ **CodeChef 2★** (Max Rating: 1461)
 * 🧠 **LeetCode Rating: 1502**
-* ⚔️ **Codeforces Rating: 1047**
+* ⚔️ **Codeforces questions: 178**
 * 🧩 Solved **500+ DSA Problems**
 
 ---
