@@ -1,10 +1,9 @@
 # Hi there 👋 I'm Purvish Panchal
 
 ## 🚀 About Me
+currently I am working at **MOTADATA** for Trainee Software Engineer 
 
-Backend-focused developer passionate about building scalable web applications and solving complex problems.
-
-* 💻 Backend Development using **Node.js** and **Express.js**
+* 💻 Backend Development using **JAVA**,**Vert.x web**,**go-lang** , **Networking**
 * 🗄️ Database design with **MongoDB** and **SQL**
 * 🧠 Strong interest in **Data Structures & Algorithms**
 * ⚡ Active in **Competitive Programming**
@@ -34,6 +33,8 @@ Solved **500+ DSA problems** across competitive programming platforms.
 
 ### Backend
 
+* Java 
+* Vert.x Web
 * Node.js
 * Express.js
 * REST API Development
